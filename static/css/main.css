@@ -1,0 +1,23 @@
+.jumbotronwidth {
+  max-width:100%;
+}
+.jordy-blue {
+  background-color: #89C4F4;
+}
+.original-blue {
+  background-color: #004D84;
+}
+.navbar-inverse .navbar-nav > li > a {
+  color: #ececec;
+}
+
+.my {
+  width: 100%;
+  background: #fff;
+  background: rgba(255,255,255,0.5);
+
+}
+
+.teste {
+  padding-top: 60px;
+}
